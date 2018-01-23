@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using LocalDBWithConsole.CRUD;
+using LocalDBWithConsole.dao;
+using LocalDBWithConsole.daoIMPL;
 using LocalDBWithConsole.model;
 
 namespace LocalDBWithConsole
@@ -16,6 +18,7 @@ namespace LocalDBWithConsole
         static void Main(string[] args)
         {
             mulai:
+            GeneralDAO generalDao;
             CRUDLocalDB crudLocalDb = new CRUDLocalDB();
             UserLocalDB userLocalDb = new UserLocalDB();
             Console.WriteLine("===== Menu CRUD with Console :v =====");
@@ -34,8 +37,9 @@ namespace LocalDBWithConsole
                 switch (Int16.Parse(pil))
                 {
                     case 1:
-                        Console.WriteLine("+++ Menu Insert +++");
-                        crudLocalDb.showData();
+                        Console.WriteLine("+++ Menu Select +++");
+                        generalDao = new generalDaoIMPL();
+                        generalDao.getData();
                         break;
 
                     case 2:
@@ -44,16 +48,8 @@ namespace LocalDBWithConsole
                         userLocalDb.username = Console.ReadLine();
                         Console.Write("masukan Password : ");
                         userLocalDb.password = Console.ReadLine();
-                        if (crudLocalDb.pushUser(userLocalDb))
-                        {
-                            Console.WriteLine("Insert Sukses");
-                        }
-                        else
-                        {
-                            Console.WriteLine("Insert Sukses");
-                        }
-
-                        crudLocalDb.pushUser(userLocalDb);
+                        generalDao = new generalDaoIMPL();
+                        generalDao.pushData(userLocalDb);
                         break;
 
                     case 3:
@@ -80,7 +76,8 @@ namespace LocalDBWithConsole
                         crudLocalDb.showData();
                         Console.Write("masukan username yang akan di hapus : ");
                         string user = Console.ReadLine();
-                        if (crudLocalDb.delUser(user))
+                        generalDao = new generalDaoIMPL();
+                        if (generalDao.delData(user))
                         {
                             Console.WriteLine("user dihapus");
                         }

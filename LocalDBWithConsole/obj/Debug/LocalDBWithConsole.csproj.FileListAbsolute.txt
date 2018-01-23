@@ -5,3 +5,4 @@ C:\Users\NurHidayat\Documents\Visual Studio 2015\Projects\cSharpFundamental\Loca
 C:\Users\NurHidayat\Documents\Visual Studio 2015\Projects\cSharpFundamental\LocalDBWithConsole\bin\Debug\LocalDBWithConsole.pdb
 C:\Users\NurHidayat\Documents\Visual Studio 2015\Projects\cSharpFundamental\LocalDBWithConsole\obj\Debug\LocalDBWithConsole.exe
 C:\Users\NurHidayat\Documents\Visual Studio 2015\Projects\cSharpFundamental\LocalDBWithConsole\obj\Debug\LocalDBWithConsole.pdb
+C:\Users\NurHidayat\Documents\Visual Studio 2015\Projects\cSharpFundamental\LocalDBWithConsole\obj\Debug\LocalDBWithConsole.csprojResolveAssemblyReference.cache

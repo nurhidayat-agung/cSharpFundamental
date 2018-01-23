@@ -60,6 +60,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CRUD\CRUDLocalDB.cs" />
+    <Compile Include="daoIMPL\generalDaoIMPL.cs" />
+    <Compile Include="dao\GeneralDAO.cs" />
+    <Compile Include="DB\DBConn.cs" />
     <Compile Include="model\UserLocalDB.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

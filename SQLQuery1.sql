@@ -35,4 +35,5 @@ go
 create procedure sp_getUser
 @username varchar(25)
 as
-	select * from tblLogin where username = 'cek';
+	select * from tblLogin where username = @username;
+
