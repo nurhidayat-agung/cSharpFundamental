@@ -1,0 +1,7 @@
+C:\Users\NurHidayat\Documents\Visual Studio 2015\Projects\cSharpFundamental\LocalDBWithConsole\bin\Release\LocalDBWithConsole.exe.config
+C:\Users\NurHidayat\Documents\Visual Studio 2015\Projects\cSharpFundamental\LocalDBWithConsole\bin\Release\DB1.mdf
+C:\Users\NurHidayat\Documents\Visual Studio 2015\Projects\cSharpFundamental\LocalDBWithConsole\bin\Release\DB1_log.ldf
+C:\Users\NurHidayat\Documents\Visual Studio 2015\Projects\cSharpFundamental\LocalDBWithConsole\bin\Release\LocalDBWithConsole.exe
+C:\Users\NurHidayat\Documents\Visual Studio 2015\Projects\cSharpFundamental\LocalDBWithConsole\bin\Release\LocalDBWithConsole.pdb
+C:\Users\NurHidayat\Documents\Visual Studio 2015\Projects\cSharpFundamental\LocalDBWithConsole\obj\Release\LocalDBWithConsole.exe
+C:\Users\NurHidayat\Documents\Visual Studio 2015\Projects\cSharpFundamental\LocalDBWithConsole\obj\Release\LocalDBWithConsole.pdb

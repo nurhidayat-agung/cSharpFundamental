@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cSharpFundamental", "cSharpFundamental\cSharpFundamental.csproj", "{51ED9E94-E30F-423F-9DAE-8A803A87D193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foorExcercise", "foorExcercise\foorExcercise.csproj", "{92367C71-3600-420D-A833-18C174F898A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalDBWithConsole", "LocalDBWithConsole\LocalDBWithConsole.csproj", "{64E20CD8-7124-4124-8FFD-4B96530CC5DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51ED9E94-E30F-423F-9DAE-8A803A87D193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51ED9E94-E30F-423F-9DAE-8A803A87D193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51ED9E94-E30F-423F-9DAE-8A803A87D193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51ED9E94-E30F-423F-9DAE-8A803A87D193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92367C71-3600-420D-A833-18C174F898A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92367C71-3600-420D-A833-18C174F898A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92367C71-3600-420D-A833-18C174F898A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92367C71-3600-420D-A833-18C174F898A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64E20CD8-7124-4124-8FFD-4B96530CC5DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64E20CD8-7124-4124-8FFD-4B96530CC5DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64E20CD8-7124-4124-8FFD-4B96530CC5DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64E20CD8-7124-4124-8FFD-4B96530CC5DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

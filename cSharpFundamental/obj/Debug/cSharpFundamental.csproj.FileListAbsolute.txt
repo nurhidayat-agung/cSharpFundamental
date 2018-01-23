@@ -1,0 +1,6 @@
+c:\users\nurhidayat\documents\visual studio 2015\Projects\cSharpFundamental\cSharpFundamental\bin\Debug\cSharpFundamental.exe.config
+c:\users\nurhidayat\documents\visual studio 2015\Projects\cSharpFundamental\cSharpFundamental\bin\Debug\cSharpFundamental.exe
+c:\users\nurhidayat\documents\visual studio 2015\Projects\cSharpFundamental\cSharpFundamental\bin\Debug\cSharpFundamental.pdb
+c:\users\nurhidayat\documents\visual studio 2015\Projects\cSharpFundamental\cSharpFundamental\obj\Debug\cSharpFundamental.csprojResolveAssemblyReference.cache
+c:\users\nurhidayat\documents\visual studio 2015\Projects\cSharpFundamental\cSharpFundamental\obj\Debug\cSharpFundamental.exe
+c:\users\nurhidayat\documents\visual studio 2015\Projects\cSharpFundamental\cSharpFundamental\obj\Debug\cSharpFundamental.pdb

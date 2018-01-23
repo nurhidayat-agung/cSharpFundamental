@@ -1,0 +1,6 @@
+c:\users\nurhidayat\documents\visual studio 2015\Projects\cSharpFundamental\foorExcercise\bin\Debug\foorExcercise.exe.config
+c:\users\nurhidayat\documents\visual studio 2015\Projects\cSharpFundamental\foorExcercise\bin\Debug\foorExcercise.exe
+c:\users\nurhidayat\documents\visual studio 2015\Projects\cSharpFundamental\foorExcercise\bin\Debug\foorExcercise.pdb
+c:\users\nurhidayat\documents\visual studio 2015\Projects\cSharpFundamental\foorExcercise\obj\Debug\foorExcercise.csprojResolveAssemblyReference.cache
+c:\users\nurhidayat\documents\visual studio 2015\Projects\cSharpFundamental\foorExcercise\obj\Debug\foorExcercise.exe
+c:\users\nurhidayat\documents\visual studio 2015\Projects\cSharpFundamental\foorExcercise\obj\Debug\foorExcercise.pdb
